@@ -1,0 +1,8 @@
+name: Discordbot
+version: '${project.version}'
+main: tharmsy.xyz.tracker.Discordbot
+api-version: '1.20'
+load: STARTUP
+authors: [Tharmsy]
+description: Discord bot that shows status and conosle
+website: tharmsy.xyx
