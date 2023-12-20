@@ -3,3 +3,6 @@
 # Features RN
 🔥 none
 
+# todo 
+Config system
+Everything
